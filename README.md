@@ -3,6 +3,7 @@
 - [ ] Mirai
 - [ ] Brickerbot
 - [ ] Certificate pinning
+- [ ] Gray Hat Python
 - [ ] Elements of Programming interviews
     - Full code
        - [ ] 4.1
